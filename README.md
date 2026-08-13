@@ -1,4 +1,4 @@
-# ECHIDNA v2.0
+# ECHIDNA v3.0
 
 ## Active Directory Attack Framework
 
